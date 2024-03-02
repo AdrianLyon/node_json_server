@@ -1,0 +1,48 @@
+{
+    "professores": [
+        {
+            "name": "Adrian",
+            "lastname": "Leon",
+            "Subject": [
+                {
+                    "name": "Nodejs"
+                },
+                {
+                    "name": "Reactjs"
+                },
+                {
+                    "name": "linux"
+                }
+            ]
+        }
+    ],
+    "alumnos": [
+        {
+            "name": "Chelsy",
+            "lastname": "Leon",
+            "promedio": 10
+        },
+        {
+            "name": "Meredith",
+            "lastname": "Leon",
+            "promedio": 8.5
+        }
+    ],
+    "cursos": [
+        {
+            "name": "linux",
+            "duracion": 10,
+            "difficultad": "advanced"
+        },
+        {
+            "name": "Reactjs",
+            "duracion": 7,
+            "difficultad": "advanced"
+        },
+        {
+            "name": "Nodejs",
+            "duracion": 8,
+            "difficultad": "advanced"
+        }
+    ]
+}
